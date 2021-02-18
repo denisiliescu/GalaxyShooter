@@ -1,6 +1,5 @@
 # Galaxy Shooter[POSTPONED]  
 
-![alt text](https://github.com/[denisiliescu]/[GalaxyShooter]/blob/[main]/Galaxy_Shooter.png?raw=true)
 
 Actual state of the game:  
 The game is ready to play on PC platform.  
