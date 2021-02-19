@@ -1,6 +1,6 @@
 # Galaxy Shooter[POSTPONED]  
 
-![Galaxy_Shooter](https://user-images.githubusercontent.com/62428813/108421306-add63400-723d-11eb-83f6-b0f5c737837d.png)
+![Galaxy_Shooter](https://user-images.githubusercontent.com/62428813/108441617-29e07400-725e-11eb-9f89-9e74bdf619fa.png)
 
 Actual state of the game:  
 Gameplay: https://youtu.be/up041J-PUQs  
